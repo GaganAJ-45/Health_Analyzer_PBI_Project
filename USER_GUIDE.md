@@ -469,34 +469,3 @@ The Health Analyzer Dashboard is a comprehensive Power BI tool designed to analy
 3. Compare dates to ensure data exists for selected period
 4. Contact Data Analytics team if issue persists
 5. Provide specific example of incorrect data
-
----
-
-## Contact & Support
-
-**Questions about the Dashboard?**
-- Email: analytics@nexuscoreinnovations.com
-- Slack: #health-analyzer-dashboard
-
-**Technical Support:**
-- IT Help Desk: ext. 5000
-- Database Issues: database-team@company.com
-
-**Feedback & Suggestions:**
-- Submit via: feedback-form@company.com
-- We value your input for dashboard improvements!
-
----
-
-## Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | May 2026 | Initial user guide creation |
-
----
-
-**Last Updated:** May 2026  
-**Created By:** Gagan A J  
-**For:** Health Analyzer Dashboard v1.0
-
