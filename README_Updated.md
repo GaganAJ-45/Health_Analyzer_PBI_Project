@@ -3,7 +3,6 @@
 **A comprehensive Power BI dashboard for analyzing healthcare patient waiting lists and driving data-driven operational decisions.**
 
 ---
-
 ## 🎯 Project Overview
 
 Health Analyzer is an end-to-end business intelligence solution that transforms healthcare waiting list data into actionable insights. The project tracks 2.46 million patient records across 4 years (2018-2021) and enables healthcare organizations to monitor, analyze, and optimize patient waiting list management.
