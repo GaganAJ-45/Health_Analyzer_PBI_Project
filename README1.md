@@ -5,9 +5,6 @@
 **Tool:** Power BI (Desktop)  
 **Data Model:** 5 relational tables  
 **Report Pages:** 3 pages  
-**Created:** September 2025  
-**Version:** Power BI 2025.07
-
 ---
 
 ## ✅ Strengths
